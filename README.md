@@ -7,4 +7,5 @@ hellooo, i am barrett :) i use she/they pronouns
 
 feel free to reach out, i would love to collaborate / learn more about what you are working on. 
 - my email is barr@bu.edu :)
-- also check out my website barrettemmawalsh.com
+- also check out my website barr.press
+  

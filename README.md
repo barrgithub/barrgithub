@@ -1,11 +1,14 @@
-hellooo, i am barrett :) i use she/they pronouns
-  - i am a computer science and journalism major at boston university
-  
-    - currently, i am learning assembly! 
-    - i am very interested in software development and data stories.
-    - i hope to use my skills in the future to solve issues sustainability, education, and equality.
+hello
+welcome
 
-feel free to reach out, i would love to collaborate / learn more about what you are working on. 
-- my email is barr@bu.edu :)
-- also check out my website barr.press
-  
+my name is barrett! barrgit haha
+
+about me:
+journalism major, cs minor at boston university
+i focus on visual and data driven stories 
+currently in software engineering class
+
+would love to hear from you about your experience and focus!
+
+have a great day
+
